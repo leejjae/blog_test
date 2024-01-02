@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -170,19 +170,32 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1704197897216" data-listing-reading-time-sort="0">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1704153600000" data-listing-file-modified-sort="1704198495456" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="./posts/test.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
 </div>
 <div class="body">
 <a href="./posts/test.html">
+<h3 class="no-anchor listing-title">
+my title
+</h3>
+<div class="listing-subtitle">
+
+</div>
 <div class="listing-description">
 
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/test.html"> </a>
+<a href="./posts/test.html">
+<div class="listing-date">
+Jan 2, 2024
+</div>
+<div class="listing-author">
+이정재
+</div>
+</a>
 </div>
 </div>
 </div>
