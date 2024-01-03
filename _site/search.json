@@ -4,7 +4,14 @@
     "href": "posts/test.html",
     "title": "my title",
     "section": "",
-    "text": "b = [1,2,3,4,5]\nb\n\n[1, 2, 3, 4, 5]\n\n\nMarkdown 기록"
+    "text": "1세대 프로그래머의 삶 with python\n2세대 프로그래머의 삶 with ipyhon\n3세대 프로그래머의 삶 with 메모장 + ipython\n4세대 프로그래머의 삶 with IDE(통합개발환경)\n5세대 프로그래머의 삶 with 가상컴퓨터 + 원격컴퓨터 + 클라우드컴퓨터"
+  },
+  {
+    "objectID": "posts/test.html#일차-숙제",
+    "href": "posts/test.html#일차-숙제",
+    "title": "my title",
+    "section": "",
+    "text": "1세대 프로그래머의 삶 with python\n2세대 프로그래머의 삶 with ipyhon\n3세대 프로그래머의 삶 with 메모장 + ipython\n4세대 프로그래머의 삶 with IDE(통합개발환경)\n5세대 프로그래머의 삶 with 가상컴퓨터 + 원격컴퓨터 + 클라우드컴퓨터"
   },
   {
     "objectID": "index.html",
