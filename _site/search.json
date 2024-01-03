@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "my title",
+    "section": "",
+    "text": "b = [1,2,3,4,5]\nb\n\n[1, 2, 3, 4, 5]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "lee_test",
+    "section": "",
+    "text": "my title\n\n\n\n\n\n\n\n\n\n\n\n\nJan 2, 2024\n\n\n이정재\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
